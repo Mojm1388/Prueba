@@ -3,4 +3,5 @@
 #EXTINF:-1, REAL MADRID
 https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-p.m3u8?sd=10&rebase=on&hdntl=exp=1621824815~acl=%2f*~data=hdntl~hmac=ffcc68bacc0925cbde591ac35a5ffc16d545ea0977507ed880717b39b650a4a1
 
-#EXTINF:-1, https://stitcher-ipv4.pluto.tv/stitch/hls/channel/5cf96cc422df39f1a338d165/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=ba29&deviceDNT=0&deviceModel=0&already_redirected=true
+#EXTINF:-1, 
+https://stitcher-ipv4.pluto.tv/stitch/hls/channel/5cf96cc422df39f1a338d165/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=ba29&deviceDNT=0&deviceModel=0&already_redirected=true
