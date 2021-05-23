@@ -1,19 +1,19 @@
 #EXTM3U
 
-#EXTINF:-1,24/7cine estelar 
+#EXTINF:-,24/7cine estelar 
 https://pluto.tv/live-tv/pluto-tv-cine-estelar-1
 
-#EXTINF:-1,24/7cine suspenso 
+#EXTINF:-,24/7cine suspenso 
 https://pluto.tv/live-tv/pluto-tv-cine-suspenso
 
-#EXTINF:-1,24/7pluto accion
+#EXTINF:-,24/7pluto accion
 https://pluto.tv/live-tv/estrellas-de-accion
 
-#EXTINF:-1,24/7cine comedia
+#EXTINF:-,24/7cine comedia
 https://pluto.tv/live-tv/pluto-tv-cine-comedia
 
-#EXTINF:-1,24/7para Mount +
+#EXTINF:-,24/7para Mount +
 https://pluto.tv/live-tv/paramount-presenta
 
-#EXTINF:-1,24/7cine accion
+#EXTINF:-,24/7cine accion
 https://pluto.tv/live-tv/pluto-tv-cine-accion
