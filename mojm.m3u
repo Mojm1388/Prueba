@@ -1,10 +1,88 @@
 #EXTM3U
 
-#EXTINF:-1 ,REAL MADRID
-https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-p.m3u8?sd=10&rebase=on&hdntl=exp=1621824815~acl=%2f*~data=hdntl~hmac=ffcc68bacc0925cbde591ac35a5ffc16d545ea0977507ed880717b39b650a4a1
 
-#EXTINF:-1 ,TELEMUNDO 
-https://stitcher-ipv4.pluto.tv/stitch/hls/channel/5cf96cc422df39f1a338d165/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=ba29&deviceDNT=0&deviceModel=0&already_redirected=true
-
-#EXTINF:-1 ,BEIN SPORT
-https://static.pesoaniz.com/templates/_assets/sounds/thunderbird/default.mp3
+#EXTINF:-1,C33 MADRID HD
+http://superypunto.xyz:8080/Zangied/LWYGfq0Lmj/38277
+#EXTINF:-1,Telemadrid HD
+http://superypunto.xyz:8080/Zangied/LWYGfq0Lmj/54302
+#EXTINF:-1,ONDAMADRID
+#EXTINF:-1,LALIGA SD
+http://superypunto.xyz:8080/Zangied/LWYGfq0Lmj/17493
+#EXTINF:-1,LALIGA SD EXTRA 1
+http://superypunto.xyz:8080/Zangied/LWYGfq0Lmj/36121
+#EXTINF:-1,LALIGA HD
+http://superypunto.xyz:8080/Zangied/LWYGfq0Lmj/38400
+#EXTINF:-1,LALIGA HD EXTRA 1
+http://superypunto.xyz:8080/Zangied/LWYGfq0Lmj/36114
+#EXTINF:-1,LALIGA HD EXTRA 2
+http://superypunto.xyz:8080/Zangied/LWYGfq0Lmj/17457
+#EXTINF:-1,LALIGA FHD C. LENTAS
+http://superypunto.xyz:8080/Zangied/LWYGfq0Lmj/38408
+#EXTINF:-1,LALIGA FHD
+http://superypunto.xyz:8080/Zangied/LWYGfq0Lmj/38302
+#EXTINF:-1,LALIGA FHD EXTRA 1
+http://superypunto.xyz:8080/Zangied/LWYGfq0Lmj/27480
+#EXTINF:-1,LALIGA FHD EXTRA 2
+http://superypunto.xyz:8080/Zangied/LWYGfq0Lmj/28190
+#EXTINF:-1,LALIGA FHD EXTRA 3
+http://superypunto.xyz:8080/Zangied/LWYGfq0Lmj/38409
+#EXTINF:-1,LALIGA 1 SD (SÓLO EVENTOS)
+http://superypunto.xyz:8080/Zangied/LWYGfq0Lmj/38402
+#EXTINF:-1,LALIGA 1 HD (SÓLO EVENTOS)
+http://superypunto.xyz:8080/Zangied/LWYGfq0Lmj/38403
+#EXTINF:-1,LALIGA 1 FHD (SÓLO EVENTOS)
+http://superypunto.xyz:8080/Zangied/LWYGfq0Lmj/35778
+#EXTINF:-1,LALIGA 1 FHD EXTRA (SÓLO EVENTOS)
+http://superypunto.xyz:8080/Zangied/LWYGfq0Lmj/17495
+#EXTINF:-1,LALIGA 1 FHD EXTRA 1 (SÓLO EVENTOS)
+http://superypunto.xyz:8080/Zangied/LWYGfq0Lmj/36677
+#EXTINF:-1,LALIGA 2 SD (SÓLO EVENTOS)
+http://superypunto.xyz:8080/Zangied/LWYGfq0Lmj/38404
+#EXTINF:-1,LALIGA 2 HD (SÓLO EVENTOS)
+http://superypunto.xyz:8080/Zangied/LWYGfq0Lmj/38405
+#EXTINF:-1,LALIGA 2 FHD (SÓLO EVENTOS)
+http://superypunto.xyz:8080/Zangied/LWYGfq0Lmj/17496
+#EXTINF:-1,LALIGA 3 SD (SÓLO EVENTOS)
+http://superypunto.xyz:8080/Zangied/LWYGfq0Lmj/38406
+#EXTINF:-1,LALIGA 3 HD (SÓLO EVENTOS)
+http://superypunto.xyz:8080/Zangied/LWYGfq0Lmj/38407
+#EXTINF:-1,LALIGA 3 FHD (SÓLO EVENTOS)
+http://superypunto.xyz:8080/Zangied/LWYGfq0Lmj/17497
+#EXTINF:-1,LALIGA 4 SD (SÓLO EVENTOS)
+http://superypunto.xyz:8080/Zangied/LWYGfq0Lmj/35337
+#EXTINF:-1,LALIGA 4 HD (SÓLO EVENTOS)
+http://superypunto.xyz:8080/Zangied/LWYGfq0Lmj/35336
+#EXTINF:-1,LALIGA 4 FHD (SÓLO EVENTOS)
+http://superypunto.xyz:8080/Zangied/LWYGfq0Lmj/35335
+#EXTINF:-1,LALIGA 5 SD (SÓLO EVENTOS)
+http://superypunto.xyz:8080/Zangied/LWYGfq0Lmj/35326
+#EXTINF:-1,LALIGA 5 HD (SÓLO EVENTOS)
+http://superypunto.xyz:8080/Zangied/LWYGfq0Lmj/35328
+#EXTINF:-1,LALIGA 6 (SÓLO EVENTOS)
+http://superypunto.xyz:8080/Zangied/LWYGfq0Lmj/35773
+#EXTINF:-1,LALIGA 7  (SÓLO EVENTOS)
+http://superypunto.xyz:8080/Zangied/LWYGfq0Lmj/35774
+#EXTINF:-1,LALIGA 8  (SÓLO EVENTOS)
+http://superypunto.xyz:8080/Zangied/LWYGfq0Lmj/35775
+#EXTINF:-1,LALIGA 9 (SÓLO EVENTOS)
+http://superypunto.xyz:8080/Zangied/LWYGfq0Lmj/35776
+#EXTINF:-1,GOLTV SD
+http://superypunto.xyz:8080/Zangied/LWYGfq0Lmj/17511
+#EXTINF:-1,GOLTV SD EXTRA
+http://superypunto.xyz:8080/Zangied/LWYGfq0Lmj/54336
+#EXTINF:-1,GOLTV HD
+http://superypunto.xyz:8080/Zangied/LWYGfq0Lmj/38417
+#EXTINF:-1,GOLTV HD EXTRA
+http://superypunto.xyz:8080/Zangied/LWYGfq0Lmj/54337
+#EXTINF:-1,GOLTV FHD
+http://superypunto.xyz:8080/Zangied/LWYGfq0Lmj/38418
+#EXTINF:-1,GOLTV FHD EXTRA
+http://superypunto.xyz:8080/Zangied/LWYGfq0Lmj/54335
+#EXTINF:-1,BARCATV SD
+http://superypunto.xyz:8080/Zangied/LWYGfq0Lmj/38424
+#EXTINF:-1,BARCATV FHD
+http://superypunto.xyz:8080/Zangied/LWYGfq0Lmj/17513
+#EXTINF:-1,REAL MADRID TV SD
+http://superypunto.xyz:8080/Zangied/LWYGfq0Lmj/17515
+#EXTINF:-1,REAL MADRID TV FHD
+http://superypunto.xyz:8080/Zangied/LWYGfq0Lmj/17514
